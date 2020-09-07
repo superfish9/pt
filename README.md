@@ -269,7 +269,7 @@
 ##### 架构
 
 - [Take Your Path Normalization Off And Pop 0days Out! - Orange Tsai](https://www.youtube.com/watch?reload=9&v=R_4edL7YDcg)
-- [HTTP盲攻击的几种思路最终版](https://gitlab.com/sfish/pt/blob/master/Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/HTTP%E7%9B%B2%E6%94%BB%E5%87%BB%E7%9A%84%E5%87%A0%E7%A7%8D%E6%80%9D%E8%B7%AF%E6%9C%80%E7%BB%88%E7%89%88.pdf)
+- [HTTP盲攻击的几种思路最终版](./Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/HTTP%E7%9B%B2%E6%94%BB%E5%87%BB%E7%9A%84%E5%87%A0%E7%A7%8D%E6%80%9D%E8%B7%AF%E6%9C%80%E7%BB%88%E7%89%88.pdf)
 - [Cracking the Lens: Targeting HTTP's Hidden Attack-Surface](https://portswigger.net/blog/cracking-the-lens-targeting-https-hidden-attack-surface)
   - [collaborator-everywhere](https://github.com/PortSwigger/collaborator-everywhere)
 - [web服务器分层架构的资源文件映射安全以及在J2EE应用中的利用与危害](https://juejin.im/post/5aa1142cf265da238f121fa4)
@@ -282,7 +282,7 @@
   - [Bypassing Web Cache Poisoning Countermeasures](https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures)
   - [Web Cache Entanglement: Novel Pathways to Poisoning](https://portswigger.net/research/web-cache-entanglement)
 - Web缓存欺骗
-  - [详解Web缓存欺骗攻击](https://gitlab.com/sfish/pt/blob/master/Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/%E8%AF%A6%E8%A7%A3Web%E7%BC%93%E5%AD%98%E6%AC%BA%E9%AA%97%E6%94%BB%E5%87%BB.pdf)
+  - [详解Web缓存欺骗攻击](./Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/%E8%AF%A6%E8%A7%A3Web%E7%BC%93%E5%AD%98%E6%AC%BA%E9%AA%97%E6%94%BB%E5%87%BB.pdf)
   - [Web Cache Deception Attack](https://omergil.blogspot.com/2017/02/web-cache-deception-attack.html)
 - 相对路径覆盖
   - [RPO攻击方式的探究](https://www.freebuf.com/articles/web/166731.html)
