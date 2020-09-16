@@ -612,6 +612,10 @@
 - [接口安全道亦有道 – sm0nk](./Web%E5%BA%94%E7%94%A8/%E5%B8%B8%E8%A7%81%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B/%E6%8E%A5%E5%8F%A3%E5%AE%89%E5%85%A8%E9%81%93%E4%BA%A6%E6%9C%89%E9%81%93___sm0nk.pdf)
 - [API接口渗透测试](https://xz.aliyun.com/t/2412)
 
+##### 未授权访问
+
+- [未授权访问的tips](https://xz.aliyun.com/t/2320)
+
 ##### SQL注入
 
 - [sqlmap](https://github.com/sqlmapproject/sqlmap)
