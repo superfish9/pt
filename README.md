@@ -441,6 +441,7 @@
   - 反序列化
     - [Apache Shiro Java反序列化漏洞分析](https://blog.knownsec.com/2016/08/apache-shiro-java/)
     - [Apache Shiro反序列化识别那些事](https://mp.weixin.qq.com/s/q5sexARASK2TI6ihnRzYjg)
+    - [shiro_tool.jar](https://github.com/wyzxxz/shiro_rce)
 
 #### PHP
 
