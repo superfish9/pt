@@ -569,14 +569,12 @@
 - Ruby on Rails
   - CVE-2019-5418（任意文件读取）
   - CVE-2018-3760（路径穿越与任意文件读取）
-
-
-- CVE-2016-2098（RCE）
-- CVE-2016-0752（RCE）
-    - CVE-2015-3224（Web Console IP 白名单绕过 RCE）
-    - CVE-2013-0333（RCE [Rails PoC exploit for CVE-2013-0333](http://ronin-ruby.github.io/blog/2013/01/28/new-rails-poc.html)）
-    - CVE-2013-3221（数据类型注入）
-    - CVE-2013-0156（RCE）
+  - CVE-2016-2098（RCE）
+  - CVE-2016-0752（RCE）
+  - CVE-2015-3224（Web Console IP 白名单绕过 RCE）
+  - CVE-2013-0333（RCE [Rails PoC exploit for CVE-2013-0333](http://ronin-ruby.github.io/blog/2013/01/28/new-rails-poc.html)）
+  - CVE-2013-3221（数据类型注入）
+  - CVE-2013-0156（RCE）
 
 
 #### Node.js
