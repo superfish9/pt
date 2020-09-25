@@ -420,12 +420,14 @@
   - CVE-2016-9299（[Jenkins-Ldap反序列化](http://rinige.com/index.php/archives/697/)）
   - CVE-2016-0792（XStream反序列化RCE）
   - CVE-2015-8103（[Java反序列化RCE](https://www.seebug.org/vuldb/ssvid-89725)）
-
 - ElasticSearch
   - 未授权访问
   - CVE-2015-3337（任意文件读取）
   - CVE-2015-1427（RCE）
   - CVE-2014-3120（RCE）
+- Hadoop
+  - [Apache Hadoop远程命令执行](https://www.secpulse.com/archives/14677.html)
+  - [Hadoop Yarn REST API未授权漏洞利用挖矿分析](https://www.freebuf.com/vuls/173638.html)
 
 ##### 组件
 
@@ -687,6 +689,10 @@
 
 - [自动绑定漏洞和Spring MVC](https://www.anquanke.com/post/id/86278)
 
+##### 未授权访问
+
+- [常见未授权访问漏洞总结](https://xz.aliyun.com/t/6103)
+
 ##### 前端相关
 
 - Misc
@@ -785,8 +791,6 @@
 
 ### 其他
 
-- [常见未授权访问漏洞总结](https://xz.aliyun.com/t/6103#toc-4)
-
 #### Java RMI
 
 - [JMX RMI Exploit实例](https://www.secpulse.com/archives/6203.html)
@@ -819,12 +823,7 @@
 
 #### Rsync
 
-- [网易某站Rsync未授权访问（涉及大量备份文件/源码）](网易某站Rsync未授权访问（涉及大量备份文件/源码）)
-
-#### Hadoop
-
-- [Apache Hadoop远程命令执行](https://www.secpulse.com/archives/14677.html)
-- [Hadoop Yarn REST API未授权漏洞利用挖矿分析](https://www.freebuf.com/vuls/173638.html)
+- [rsync未授权访问漏洞](https://www.cnblogs.com/leixiao-/p/10227086.html)
 
 #### Docker
 
