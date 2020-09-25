@@ -526,17 +526,16 @@
     - [discuz利用ssrf+缓存应用getshell漏洞分析](http://chengable.net/index.php/archives/46/)
     - Discuz! SSRF合集（待整理）
   - uc_key利用
-
-
     - [DZ论坛uc_key的利用](http://admin-yuku.lofter.com/post/1cbd1826_3d2ef01)
     - [Discuz的利用UC_KEY进行getshell](http://www.anquan.us/static/bugs/wooyun-2014-048137.html)
     - [Discuz利用UC_KEY进行前台getshell2](http://www.anquan.us/static/bugs/wooyun-2015-0137991.html)
-- SQL注入
+  - SQL注入
     - [Discuz7存在一处SQL注射漏洞（无需登录即可触发）](http://www.anquan.us/static/bugs/wooyun-2014-066095.html)
     - [Discuz! 7.2的SQL注射漏洞与代码执行漏洞](http://www.anquan.us/static/bugs/wooyun-2014-068707.html)
     - [Discuz某版本SQL注射漏洞](http://www.anquan.us/static/bugs/wooyun-2014-080359.html)
     - [Discuz! X2 SQL注射漏洞](http://www.anquan.us/static/bugs/wooyun-2011-02330.html)
     - [Discuz! 7.2 插件/manyou/sources/notice.php sql注入](Discuz! 7.2 插件/manyou/sources/notice.php sql注入)
+
 
 ##### 组件
 
@@ -554,18 +553,14 @@
   - [python和django的目录遍历漏洞（任意文件读取）](http://www.lijiejie.com/python-django-directory-traversal/)
   - [Django渗透测试与代码安全漫谈（一）](./Web%E5%BA%94%E7%94%A8/Python/Django/Django%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%8E%E4%BB%A3%E7%A0%81%E5%AE%89%E5%85%A8%E6%BC%AB%E8%B0%88_%E4%B8%80_.pdf)
   - [Django渗透测试与代码安全漫谈（二）](./Web%E5%BA%94%E7%94%A8/Python/Django/Django%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%8E%E4%BB%A3%E7%A0%81%E5%AE%89%E5%85%A8%E6%BC%AB%E8%B0%88_%E4%BA%8C_.pdf)
-
 - Flask
 
   - [乱弹Flask注入](https://www.freebuf.com/articles/web/88768.html)
   - Flask/Jinja2 SSTI
-
-
     - [探索Flask/Jinja2中的服务端模版注入（一）](https://www.freebuf.com/articles/web/98619.html)
     - [探索Flask/Jinja2中的服务端模版注入（二）](https://www.freebuf.com/articles/web/98928.html)
+  - [Werkzeug - Debug Shell Command Execution(Metasploit)](https://www.anquanke.com/vul/id/1066340)
 
-
-- [Werkzeug - Debug Shell Command Execution(Metasploit)](https://www.anquanke.com/vul/id/1066340)
 
 #### Ruby
 
