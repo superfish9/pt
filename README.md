@@ -726,18 +726,18 @@
 
   - [XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
   - [find_xss.png](./Web%E5%BA%94%E7%94%A8/%E5%B8%B8%E8%A7%81%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B/%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3/XSS/find_xss.png)
-  - [那些年我们一起学XSS](./Web%E5%BA%94%E7%94%A8/%E5%B8%B8%E8%A7%81%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B/%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3/XSS/%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%AD%A6XSS.pdf)
-  - [先知XSS挑战赛 - L3m0n Writeup](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247484070&idx=1&sn=673e20a08d9ae6c3de60ca48110b920a&scene=21#wechat_redirect)
-  - [浅析白盒安全审计中的XSS Fliter](https://www.freebuf.com/articles/web/30201.html)
-  - [mXSS攻击的成因及常见种类](http://www.vuln.cn/6361)
+    - [那些年我们一起学XSS](./Web%E5%BA%94%E7%94%A8/%E5%B8%B8%E8%A7%81%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B/%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3/XSS/%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%AD%A6XSS.pdf)
+    - [先知XSS挑战赛 - L3m0n Writeup](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247484070&idx=1&sn=673e20a08d9ae6c3de60ca48110b920a&scene=21#wechat_redirect)
+    - [浅析白盒安全审计中的XSS Fliter](https://www.freebuf.com/articles/web/30201.html)
+    - [mXSS攻击的成因及常见种类](http://www.vuln.cn/6361)
+  - 编码技巧
 
 
-- 编码技巧
     - [XSS与字符编码的那些事儿 ——科普文](http://www.anquan.us/static/drops/tips-689.html)
     - [XSS和字符集的那些事儿](http://www.vuln.cn/6602)
-- CSP绕过
+  - CSP绕过
     - [初探CSPBypass一些细节总结](https://xz.aliyun.com/t/318)
-- 利用
+  - 利用
     - [小松鼠的黑魔法-XSS利用](http://bobao.360.cn/learning/detail/159.html)
     - [XSS自动化入侵内网](https://www.freebuf.com/column/133411.html)
     - [常见Flash XSS攻击方式](http://www.anquan.us/static/drops/tips-2924.html)
