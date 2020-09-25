@@ -412,22 +412,20 @@
 - Jenkins
 
   - [Compromising Jenkins and extracting credentials](https://www.n00py.io/2017/01/compromising-jenkins-and-extracting-credentials/)
-
-
-- 未授权访问
-- CVE-2019-1003000（RCE）
-    - CVE-2018-1999002（任意文件读取）
-    - CVE-2018-1999001（配置文件路径改动导致管理员权限开放）
-    - CVE-2017-1000353（反序列化RCE）
-    - CVE-2016-9299（[Jenkins-Ldap反序列化](http://rinige.com/index.php/archives/697/)）
-    - CVE-2016-0792（XStream反序列化RCE）
-    - CVE-2015-8103（[Java反序列化RCE](https://www.seebug.org/vuldb/ssvid-89725)）
+  - 未授权访问
+  - CVE-2019-1003000（RCE）
+  - CVE-2018-1999002（任意文件读取）
+  - CVE-2018-1999001（配置文件路径改动导致管理员权限开放）
+  - CVE-2017-1000353（反序列化RCE）
+  - CVE-2016-9299（[Jenkins-Ldap反序列化](http://rinige.com/index.php/archives/697/)）
+  - CVE-2016-0792（XStream反序列化RCE）
+  - CVE-2015-8103（[Java反序列化RCE](https://www.seebug.org/vuldb/ssvid-89725)）
 
 - ElasticSearch
-    - 未授权访问
-    - CVE-2015-3337（任意文件读取）
-    - CVE-2015-1427（RCE）
-    - CVE-2014-3120（RCE）
+  - 未授权访问
+  - CVE-2015-3337（任意文件读取）
+  - CVE-2015-1427（RCE）
+  - CVE-2014-3120（RCE）
 
 ##### 组件
 
