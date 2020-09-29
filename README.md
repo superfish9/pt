@@ -701,6 +701,7 @@
 - [跨域方法总结](https://xz.aliyun.com/t/224)
   - JSONP
     - [JSONP安全攻防技术](http://blog.knownsec.com/2015/03/jsonp_security_technic/)
+    - [Taking down the SSO, Account Takeover in the Websites of Kolesa due to Insecure JSONP Call](https://medium.com/bugbountywriteup/taking-down-the-sso-account-takeover-in-3-websites-of-kolesa-due-to-insecure-jsonp-call-facd79732e45)
   - CORS
     - [跨域资源共享(CORS)安全性浅析](https://www.freebuf.com/articles/web/18493.html)
     - [Exploiting CORS Misconfigurations for Bitcoins and Bounties](https://portswigger.net/blog/exploiting-cors-misconfigurations-for-bitcoins-and-bounties)
@@ -735,9 +736,9 @@
 
     - [XSS与字符编码的那些事儿 ——科普文](http://www.anquan.us/static/drops/tips-689.html)
     - [XSS和字符集的那些事儿](http://www.vuln.cn/6602)
-  - CSP绕过
+- CSP绕过
     - [初探CSPBypass一些细节总结](https://xz.aliyun.com/t/318)
-  - 利用
+- 利用
     - [小松鼠的黑魔法-XSS利用](http://bobao.360.cn/learning/detail/159.html)
     - [XSS自动化入侵内网](https://www.freebuf.com/column/133411.html)
     - [常见Flash XSS攻击方式](http://www.anquan.us/static/drops/tips-2924.html)
