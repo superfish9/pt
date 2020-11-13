@@ -353,6 +353,10 @@
 - [解密JBoss和Weblogic数据源连接字符串和控制台密码](http://www.vuln.cn/7068)
 
 - Tomcat
+
+  - [中间件安全-Tomcat安全测试概要](https://www.secpulse.com/archives/68746.html)
+
+
   - CVE-2017-12616（信息泄漏）
   - CVE-2017-12615（PUT RCE）
   - CVE-2016-8735（反序列化 RCE）
