@@ -357,30 +357,30 @@
   - [中间件安全-Tomcat安全测试概要](https://www.secpulse.com/archives/68746.html)
 
 
-  - CVE-2017-12616（信息泄漏）
-  - CVE-2017-12615（PUT RCE）
-  - CVE-2016-8735（反序列化 RCE）
-  - CVE-2016-1240（本地提权）
+- CVE-2017-12616（信息泄漏）
+- CVE-2017-12615（PUT RCE）
+    - CVE-2016-8735（反序列化 RCE）
+    - CVE-2016-1240（本地提权）
 
 - Resin（待整理）
-  - 未授权访问
-  - 任意文件读取
-  - 目录遍历
+    - 未授权访问
+    - 任意文件读取
+    - 目录遍历
 
 - WebLogic
 
-  - 2020待更新
-  - CVE-2019-2888（XXE）
-  - CVE-2019-2729（wls9-async反序列化RCE）
-  - CVE-2019-2725（CNVD-C-2019-48814，wls9-async反序列化RCE，[scanv-poc](./Web%E5%BA%94%E7%94%A8/Java%20Web/WebLogic/CVE-2019-2725/scanv-CVE-2019-2725.py)）
-  - CVE-2019-2647（XXE [Weblogic xxe漏洞复现及攻击痕迹分析](./Web%E5%BA%94%E7%94%A8/Java%20Web/WebLogic/CVE-2019-2647/Weblogic_xxe%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0%E5%8F%8A%E6%94%BB%E5%87%BB%E7%97%95%E8%BF%B9%E5%88%86%E6%9E%90_CVE-2019-2647_.pdf)）
-  - CVE-2018-3252（反序列化RCE）
-  - CVE-2018-3246（XXE）
-  - CVE-2018-2894（文件上传）
-  - CVE-2017-10271（反序列化RCE）
-  - CVE-2017-3506（反序列化RCE）
-  - CVE-2015-4852、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2018-2628、CVE-2018-2983、CVE-2018-3191、CVE-2018-3245、CVE-2020-2801、CVE-2020-2884（反序列化RCE via T3）
-  - CVE-2014-4210（SSRF）
+    - 2020待更新
+    - CVE-2019-2888（XXE）
+    - CVE-2019-2729（wls9-async反序列化RCE）
+    - CVE-2019-2725（CNVD-C-2019-48814，wls9-async反序列化RCE，[scanv-poc](./Web%E5%BA%94%E7%94%A8/Java%20Web/WebLogic/CVE-2019-2725/scanv-CVE-2019-2725.py)）
+    - CVE-2019-2647（XXE [Weblogic xxe漏洞复现及攻击痕迹分析](./Web%E5%BA%94%E7%94%A8/Java%20Web/WebLogic/CVE-2019-2647/Weblogic_xxe%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0%E5%8F%8A%E6%94%BB%E5%87%BB%E7%97%95%E8%BF%B9%E5%88%86%E6%9E%90_CVE-2019-2647_.pdf)）
+    - CVE-2018-3252（反序列化RCE）
+    - CVE-2018-3246（XXE）
+    - CVE-2018-2894（文件上传）
+    - CVE-2017-10271（反序列化RCE）
+    - CVE-2017-3506（反序列化RCE）
+    - CVE-2015-4852、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2018-2628、CVE-2018-2983、CVE-2018-3191、CVE-2018-3245、CVE-2020-2801、CVE-2020-2884（反序列化RCE via T3）
+    - CVE-2014-4210（SSRF）
 
 
 - WebSphere
@@ -673,6 +673,7 @@
 - [一篇文章带你深入理解漏洞之 XXE 漏洞](https://xz.aliyun.com/t/3357)
 - [XML实体攻击：从内网探测到命令执行步步惊心-张天琪](./Web%E5%BA%94%E7%94%A8/%E5%B8%B8%E8%A7%81%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B/XXE/5-XML%E5%AE%9E%E4%BD%93%E6%94%BB%E5%87%BB_%E4%BB%8E%E5%86%85%E7%BD%91%E6%8E%A2%E6%B5%8B%E5%88%B0%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83-%E5%BC%A0%E5%A4%A9%E7%90%AA.pdf)
 - [玩转JSON节点的Content-Type XXE攻击](https://www.secpulse.com/archives/6256.html)
+- [JAVA常见的XXE漏洞写法和防御](https://blog.spoock.com/2018/10/23/java-xxe/)
 - [XXEinjector](https://github.com/enjoiz/XXEinjector)
 
 ##### SSI
@@ -736,13 +737,13 @@
     - [浅析白盒安全审计中的XSS Fliter](https://www.freebuf.com/articles/web/30201.html)
     - [mXSS攻击的成因及常见种类](http://www.vuln.cn/6361)
   - 编码技巧
-
-
     - [XSS与字符编码的那些事儿 ——科普文](http://www.anquan.us/static/drops/tips-689.html)
     - [XSS和字符集的那些事儿](http://www.vuln.cn/6602)
-- CSP绕过
-    - [初探CSPBypass一些细节总结](https://xz.aliyun.com/t/318)
-- 利用
+  - CSP绕过
+
+
+    - 初探CSPBypass一些细节总结](https://xz.aliyun.com/t/318)
+  - 利用
     - [小松鼠的黑魔法-XSS利用](http://bobao.360.cn/learning/detail/159.html)
     - [XSS自动化入侵内网](https://www.freebuf.com/column/133411.html)
     - [常见Flash XSS攻击方式](http://www.anquan.us/static/drops/tips-2924.html)
