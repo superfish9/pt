@@ -506,6 +506,9 @@
 
 - Drupal
 
+  - CVE-2020-28948/28949（RCE/文件重写）
+
+
   - CVE-2019-6340（反序列化RCE）
   - CVE-2018-7600、CVE-2018-7602（RCE）
   - CVE-2017-6926（越权查看评论）
@@ -743,7 +746,7 @@
 
 
     - 初探CSPBypass一些细节总结](https://xz.aliyun.com/t/318)
-  - 利用
+- 利用
     - [小松鼠的黑魔法-XSS利用](http://bobao.360.cn/learning/detail/159.html)
     - [XSS自动化入侵内网](https://www.freebuf.com/column/133411.html)
     - [常见Flash XSS攻击方式](http://www.anquan.us/static/drops/tips-2924.html)
