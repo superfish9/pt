@@ -709,7 +709,6 @@
     - [你上了我的账号](./Web%E5%BA%94%E7%94%A8/%E5%B8%B8%E8%A7%81%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B/%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3/Misc/%E4%BD%A0%E4%B8%8A%E4%BA%86%E6%88%91%E7%9A%84%E8%B4%A6%E5%8F%B7.pptx)
   - [JS敏感信息泄露：不容忽视的WEB漏洞](https://www.secpulse.com/archives/35877.html)
     - [信息收集很重要](./Web%E5%BA%94%E7%94%A8/%E5%B8%B8%E8%A7%81%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B/%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3/Misc/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86%E5%BE%88%E9%87%8D%E8%A6%81.pdf)
-
 - [跨域方法总结](https://xz.aliyun.com/t/224)
   - JSONP
     - [JSONP安全攻防技术](http://blog.knownsec.com/2015/03/jsonp_security_technic/)
@@ -747,10 +746,9 @@
     - [XSS与字符编码的那些事儿 ——科普文](http://www.anquan.us/static/drops/tips-689.html)
     - [XSS和字符集的那些事儿](http://www.vuln.cn/6602)
   - CSP绕过
+    - [初探CSPBypass一些细节总结](https://xz.aliyun.com/t/318)
 
-
-    - 初探CSPBypass一些细节总结](https://xz.aliyun.com/t/318)
-- 利用
+  - 利用
     - [小松鼠的黑魔法-XSS利用](http://bobao.360.cn/learning/detail/159.html)
     - [XSS自动化入侵内网](https://www.freebuf.com/column/133411.html)
     - [常见Flash XSS攻击方式](http://www.anquan.us/static/drops/tips-2924.html)
