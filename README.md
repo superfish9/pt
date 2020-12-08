@@ -509,15 +509,15 @@
   - CVE-2020-28948/28949（RCE/文件重写）
 
 
-  - CVE-2019-6340（反序列化RCE）
-  - CVE-2018-7600、CVE-2018-7602（RCE）
-  - CVE-2017-6926（越权查看评论）
-  - CVE-2017-6920（反序列化RCE）
-  - [Drupal 7.x Service模块SQLI & RCE 漏洞分析](https://www.cnblogs.com/pa-pa-pa/p/6670411.html)
-  - [Drupal Core Full config export 配置文件未授权下载漏洞](https://www.seebug.org/vuldb/ssvid-92436)
-  - [Drupal 7.x RESTWS 模块命令执行漏洞](https://www.seebug.org/vuldb/ssvid-92174)
-  - CVE-2015-7877（SQL注入）
-  - CVE-2014-3704（SQL注入）
+- CVE-2019-6340（反序列化RCE）
+- CVE-2018-7600、CVE-2018-7602（RCE）
+    - CVE-2017-6926（越权查看评论）
+    - CVE-2017-6920（反序列化RCE）
+    - [Drupal 7.x Service模块SQLI & RCE 漏洞分析](https://www.cnblogs.com/pa-pa-pa/p/6670411.html)
+    - [Drupal Core Full config export 配置文件未授权下载漏洞](https://www.seebug.org/vuldb/ssvid-92436)
+    - [Drupal 7.x RESTWS 模块命令执行漏洞](https://www.seebug.org/vuldb/ssvid-92174)
+    - CVE-2015-7877（SQL注入）
+    - CVE-2014-3704（SQL注入）
 
 
 
@@ -587,6 +587,10 @@
 #### Node.js
 
 - [Node.js 模块 node-serialize 反序列化任意代码执行漏洞](https://www.seebug.org/vuldb/ssvid-92674)
+- JavaScript Prototype Pollution
+  - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
+  - [从一道CTF题看Node.js的prototype pollution attack](https://xz.aliyun.com/t/2802)
+  - [Prototype Pollution in Kibana](https://slides.com/securitymb/prototype-pollution-in-kibana)
 
 ##### 开发框架
 
