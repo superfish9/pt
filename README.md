@@ -344,10 +344,12 @@
   - [搜狗某系统存在远程EL表达式注入漏洞(命令执行)](http://www.anquan.us/static/bugs/wooyun-2016-0195845.html)
   - [工商银行某系统存在远程EL表达式注入漏洞(命令执行)](http://www.anquan.us/static/bugs/wooyun-2016-0196160.html)
 - [J2EEScan](https://github.com/ilmila/J2EEScan)
+- [Java中RMI、JNDI、LDAP、JRMP、JMX、JMS那些事儿（上）](https://paper.seebug.org/1091/)
 - JNDI注入
   - [us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp](./Web%E5%BA%94%E7%94%A8/Java%20Web/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp.pdf)
   - [深入理解JNDI注入与Java反序列化漏洞利用](https://www.freebuf.com/column/189835.html)
   - [如何绕过高版本JDK的限制进行JNDI注入](https://www.freebuf.com/column/207439.html)
+  - [JAVA JNDI注入知识详解](https://paper.seebug.org/1207/)
 
 ##### WebServer
 
