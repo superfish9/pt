@@ -271,11 +271,15 @@
 
 ##### 架构
 
-- [Take Your Path Normalization Off And Pop 0days Out! - Orange Tsai](https://www.youtube.com/watch?reload=9&v=R_4edL7YDcg)
-- [HTTP盲攻击的几种思路最终版](./Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/HTTP%E7%9B%B2%E6%94%BB%E5%87%BB%E7%9A%84%E5%87%A0%E7%A7%8D%E6%80%9D%E8%B7%AF%E6%9C%80%E7%BB%88%E7%89%88.pdf)
-- [Cracking the Lens: Targeting HTTP's Hidden Attack-Surface](https://portswigger.net/blog/cracking-the-lens-targeting-https-hidden-attack-surface)
+- Path处理
+  - [Take Your Path Normalization Off And Pop 0days Out! - Orange Tsai](https://www.youtube.com/watch?reload=9&v=R_4edL7YDcg)
+  - [web服务器分层架构的资源文件映射安全以及在J2EE应用中的利用与危害](https://juejin.im/post/5aa1142cf265da238f121fa4)
+
+
+- HTTP盲攻击
+  - [HTTP盲攻击的几种思路最终版](./Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/HTTP%E7%9B%B2%E6%94%BB%E5%87%BB%E7%9A%84%E5%87%A0%E7%A7%8D%E6%80%9D%E8%B7%AF%E6%9C%80%E7%BB%88%E7%89%88.pdf)
+  - [Cracking the Lens: Targeting HTTP's Hidden Attack-Surface](https://portswigger.net/blog/cracking-the-lens-targeting-https-hidden-attack-surface)
   - [collaborator-everywhere](https://github.com/PortSwigger/collaborator-everywhere)
-- [web服务器分层架构的资源文件映射安全以及在J2EE应用中的利用与危害](https://juejin.im/post/5aa1142cf265da238f121fa4)
 - HTTP请求走私
   - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
   - [HTTP Desync Attacks: what happened next](https://portswigger.net/research/http-desync-attacks-what-happened-next)
@@ -290,6 +294,8 @@
 - 相对路径覆盖
   - [RPO攻击方式的探究](https://www.freebuf.com/articles/web/166731.html)
   - [Detecting and exploiting path-relative stylesheet import (PRSSI) vulnerabilities](https://portswigger.net/research/detecting-and-exploiting-path-relative-stylesheet-import-prssi-vulnerabilities)
+- CDN
+  - [CDN安全，DDos攻击](https://blog.csdn.net/sinat_38631725/article/details/107160761)
 
 ##### 组件
 
