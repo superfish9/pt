@@ -380,7 +380,7 @@
 
 - WebLogic
 
-    - 2020待更新
+    - CVE-2020-13935（DoS）
     - CVE-2019-2888（XXE）
     - CVE-2019-2729（wls9-async反序列化RCE）
     - CVE-2019-2725（CNVD-C-2019-48814，wls9-async反序列化RCE，[scanv-poc](./Web%E5%BA%94%E7%94%A8/Java%20Web/WebLogic/CVE-2019-2725/scanv-CVE-2019-2725.py)）
@@ -613,14 +613,22 @@
 
 - Zimbra
   - [A Saga of Code Executions on Zimbra](https://blog.tint0.com/2019/03/a-saga-of-code-executions-on-zimbra.html)（[Zimbra xxe+ssrf导致getshell](./Web%E5%BA%94%E7%94%A8/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8/Zimbra/Zimbra_xxe+ssrf%E5%AF%BC%E8%87%B4getshell.pdf)）
+
 - Confluence
   - CVE-2019-3396（RCE [SSTI and RCE in Confluence](./Web%E5%BA%94%E7%94%A8/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8/Confluence/CVE-2019-3396/SSTI%20and%20RCE%20in%20Confluence.pdf)，[scanv-poc](./Web%E5%BA%94%E7%94%A8/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8/Confluence/CVE-2019-3396/scanv-CVE-2019-3396.py)）
+
 - Exchange
-  - CVE-2018-8581
+
+  - [渗透测试中的Exchange](https://zhuanlan.zhihu.com/p/339329927)
+
+
+- CVE-2018-8581
     - [MICROSOFT EXCHANGE漏洞分析 – CVE-2018-8581](https://0kee.360.cn/blog/microsoft-exchange-cve-2018-8581/)
     - [利用 Exchange SSRF 漏洞和 NTLM 中继沦陷域控](https://paper.seebug.org/833/)
-  - CVE-2020-0688（RCE）
+- CVE-2020-0688（RCE）
     - [CVE-2020-0688_exchange漏洞复现](./Web%E5%BA%94%E7%94%A8/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8/Exchange/CVE-2020-0688_exchange%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0.pdf)
+- CVE-2020-17144（RCE）
+    - [从CVE-2020-17144看实战环境的漏洞武器化](https://mp.weixin.qq.com/s?__biz=MzI2NDk0MTM5MQ==&mid=2247483712&idx=1&sn=0b2cc3c9692f5c58a4eeb246d4b392fc&chksm=eaa5bb60ddd23276baf4cfd3fc59ca847c28f350c65ef98a17d49bc9944d653fad95dec4fd14&mpshare=1&scene=1&srcid=1209jtbQLVJIgr3VT0Ut1TM9&sharer_sharetime=1607483575995&sharer_shareid=dc9cecc79ba34e4bbb700a43a16153fd#rd)
 
 
 #### 常见漏洞类型
