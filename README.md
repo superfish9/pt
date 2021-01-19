@@ -870,13 +870,10 @@
 - Kubernetes
 
   - [K0otkit：Hack K8s in a K8s Way](https://mp.weixin.qq.com/s/H48WNRRtlJil9uLt-O9asw)
-
-
-- [攻击容器集群管理平台](https://0x0d.im/archives/attack-container-management-platform.html)
-- [kubernetes集群渗透测试](https://www.freebuf.com/news/196993.html)
-    - [Advanced Lateral Movement on Kubernetes Cluster](./其他/Docker/Advanced_Lateral_Movement_on_Kubernetes_Cluster.pdf)
-    - CVE-2018-1002105（k8s特权提升）
-    - [kube-hunter](https://github.com/aquasecurity/kube-hunter)
-
+  - [攻击容器集群管理平台](https://0x0d.im/archives/attack-container-management-platform.html)
+  - [kubernetes集群渗透测试](https://www.freebuf.com/news/196993.html)
+  - [Advanced Lateral Movement on Kubernetes Cluster](./其他/Docker/Advanced_Lateral_Movement_on_Kubernetes_Cluster.pdf)
+  - CVE-2018-1002105（k8s特权提升）
+  - [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
 
