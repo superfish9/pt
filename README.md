@@ -371,17 +371,21 @@
   - [中间件安全-Tomcat安全测试概要](https://www.secpulse.com/archives/68746.html)
 
 
-- CVE-2017-12616（信息泄漏）
-- CVE-2017-12615（PUT RCE）
+-   CVE-2017-12616（信息泄漏）
+
+-   CVE-2017-12615（PUT RCE）
     - CVE-2016-8735（反序列化 RCE）
     - CVE-2016-1240（本地提权）
 
-- Resin（待整理）
+-   Resin（待整理）
     - 未授权访问
     - 任意文件读取
     - 目录遍历
 
-- WebLogic
+-   WebLogic
+
+    - CVE-2021-2109（RCE）
+
 
     - CVE-2020-13935（DoS）
     - CVE-2019-2888（XXE）
