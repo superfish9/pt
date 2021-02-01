@@ -401,14 +401,18 @@
     - CVE-2014-4210（SSRF）
 
 
-- WebSphere
+-   WebSphere
+
+    - CVE-2020-4949（XXE）
+
+
     - [Java反序列化RCE](https://www.seebug.org/vuldb/ssvid-89727)
     - CVE-2014-0823（任意文件读取）
 
-- GlassFish
+-   GlassFish
     - [任意文件读取](https://www.anquanke.com/post/id/83306)
 
-- JBoss
+-   JBoss
     - CVE-2017-12149（JBoss AS 6.x反序列化RCE）
     - [Java反序列化RCE（JMXInvokerServlet）](https://www.seebug.org/vuldb/ssvid-89723)
     - jmx-console未授权访问
