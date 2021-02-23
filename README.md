@@ -710,6 +710,7 @@
 - [SSRF漏洞(原理&绕过姿势)](https://www.t00ls.net/articles-41070.html)
 - [利用Gopher协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
 - [build_your_ssrf_exp_autowork--20160711](./Web%E5%BA%94%E7%94%A8/%E5%B8%B8%E8%A7%81%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B/SSRF/build_your_ssrf_exp_autowork--20160711.pdf)
+- [When TLS Hacks You](https://xz.aliyun.com/t/9177)
 
 ##### XXE
 
