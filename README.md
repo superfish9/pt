@@ -818,6 +818,7 @@
   - Json Web Token
     - [Json Web Token历险记](https://zhuanlan.zhihu.com/p/37305980)
     - [JWT Tool](https://github.com/ticarpi/jwt_tool)
+    - [MyJWT](https://github.com/mBouamama/MyJWT)
 - 密码找回
   - [密码找回逻辑漏洞总结](http://www.anquan.us/static/drops/web-5048.html)
   - [任意用户密码重置系列](https://yangyangwithgnu.github.io/)
