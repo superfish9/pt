@@ -277,6 +277,7 @@
 - Path处理
   - [Take Your Path Normalization Off And Pop 0days Out! - Orange Tsai](https://www.youtube.com/watch?reload=9&v=R_4edL7YDcg)
   - [web服务器分层架构的资源文件映射安全以及在J2EE应用中的利用与危害](https://juejin.im/post/5aa1142cf265da238f121fa4)
+  - [Attacking Secondary Contexts in Web Applications](./Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/详解Web缓存欺骗攻击.pdf)
 
 
 - HTTP盲攻击
@@ -287,6 +288,7 @@
   - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
   - [HTTP Desync Attacks: what happened next](https://portswigger.net/research/http-desync-attacks-what-happened-next)
   - [Breaking the chains on HTTP Request Smuggler](https://portswigger.net/research/breaking-the-chains-on-http-request-smuggler)
+  - [h2c Smuggling: Request Smuggling Via HTTP/2 Cleartext(h2c)](h2c Smuggling: Request Smuggling Via HTTP/2 Cleartext(h2c))
 - Web缓存投毒
   - [Practical Web Cache Poisoning](https://portswigger.net/research/practical-web-cache-poisoning)
   - [Bypassing Web Cache Poisoning Countermeasures](https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures)
