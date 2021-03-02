@@ -880,9 +880,8 @@
 
 - [新姿势之Docker Remote API未授权访问漏洞分析和利用](http://www.anquan.us/static/drops/papers-15892.html)
   - [技术讨论|通过SSRF漏洞攻击Docker远程API获取服务器Root权限](https://www.freebuf.com/articles/web/179910.html)
-
 - [Docker-LXC 原理与绕过](./%E5%85%B6%E4%BB%96/Docker/Docker-LXC_%E5%8E%9F%E7%90%86%E4%B8%8E%E7%BB%95%E8%BF%87.pdf)
-
+- [红蓝对抗中的云原生漏洞挖掘及利用实录](https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g)
 - Kubernetes
 
   - [K0otkit：Hack K8s in a K8s Way](https://mp.weixin.qq.com/s/H48WNRRtlJil9uLt-O9asw)
