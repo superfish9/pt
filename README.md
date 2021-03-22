@@ -308,15 +308,23 @@
 
 
 - [解析漏洞总结](https://www.secpulse.com/archives/3750.html)
+
 - Nginx
   - [Nginx不安全配置可能导致的安全漏洞](https://www.freebuf.com/articles/web/149761.html)
   - CVE-2016-1247（本地提权）
+
 - Apache
   - CVE-2019-0211（本地提权）
+
 - IIS
   - IIS PUT
   - CVE-2017-7269（RCE）
+
 - F5
+
+  - CVE-2021-22986（RCE）
+
+
   - CVE-2020-5902（RCE，[scanv-poc](https://gitlab.com/sfish/pt/-/blob/master/Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/F5/_f5_big_ip_rce_cve_2020_5902.py)）
 
 ##### 基础库
@@ -430,17 +438,17 @@
   - [有趣的SpEL注入](https://xz.aliyun.com/t/9245)
 
 
-  - CVE-2018-1271（Spring MVC目录遍历）
-  - CVE-2018-1270（Spring Messaging RCE）
-  - CVE-2018-1259（Spring Data集成XMLBeam XXE）
-  - CVE-2017-8046（Spring REST Data SpEL表达式注入RCE）
-  - CVE-2016-4977（Spring Security OAuth RCE）
-  - [Jndi注入及Spring RCE漏洞分析](https://www.freebuf.com/vuls/115849.html)
-  - CVE-2011-2730（Spring EL表达式执行RCE）
-  - CVE-2010-1622（Spring MVC [DOS&RCE](https://www.inbreak.net/archives/377)）
+- CVE-2018-1271（Spring MVC目录遍历）
+- CVE-2018-1270（Spring Messaging RCE）
+    - CVE-2018-1259（Spring Data集成XMLBeam XXE）
+    - CVE-2017-8046（Spring REST Data SpEL表达式注入RCE）
+    - CVE-2016-4977（Spring Security OAuth RCE）
+    - [Jndi注入及Spring RCE漏洞分析](https://www.freebuf.com/vuls/115849.html)
+    - CVE-2011-2730（Spring EL表达式执行RCE）
+    - CVE-2010-1622（Spring MVC [DOS&RCE](https://www.inbreak.net/archives/377)）
 
 - Struts2
-  - s2-016、s2-019、s2-032、s2-037、s2-045、s2-046、s2-devmode（RCE）
+    - s2-016、s2-019、s2-032、s2-037、s2-045、s2-046、s2-devmode（RCE）
 
 ##### 应用
 
