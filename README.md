@@ -301,6 +301,7 @@
   - [Detecting and exploiting path-relative stylesheet import (PRSSI) vulnerabilities](https://portswigger.net/research/detecting-and-exploiting-path-relative-stylesheet-import-prssi-vulnerabilities)
 - CDN
   - [CDN安全，DDos攻击](https://blog.csdn.net/sinat_38631725/article/details/107160761)
+  - [CDN安全-论文复现-RangeAmp攻击](https://www.anquanke.com/post/id/235832)
 
 ##### 组件
 
@@ -325,7 +326,7 @@
   - CVE-2021-22986（RCE）
 
 
-  - CVE-2020-5902（RCE，[scanv-poc](https://gitlab.com/sfish/pt/-/blob/master/Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/F5/_f5_big_ip_rce_cve_2020_5902.py)）
+- CVE-2020-5902（RCE，[scanv-poc](https://gitlab.com/sfish/pt/-/blob/master/Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/F5/_f5_big_ip_rce_cve_2020_5902.py)）
 
 ##### 基础库
 
