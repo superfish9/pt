@@ -278,6 +278,7 @@
   - [Take Your Path Normalization Off And Pop 0days Out! - Orange Tsai](https://www.youtube.com/watch?reload=9&v=R_4edL7YDcg)
   - [web服务器分层架构的资源文件映射安全以及在J2EE应用中的利用与危害](https://juejin.im/post/5aa1142cf265da238f121fa4)
   - [Attacking Secondary Contexts in Web Applications](./Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/Attacking Secondary Contexts in Web Applications.pdf)
+  - [Middleware, middleware everywhere - and lots of misconfigurations to fix](https://labs.detectify.com/2021/02/18/middleware-middleware-everywhere-and-lots-of-misconfigurations-to-fix/)
 
 
 - HTTP盲攻击
