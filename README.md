@@ -481,6 +481,8 @@
 - Fastjson
   - [浅谈Fastjson RCE漏洞的绕过史](https://www.freebuf.com/vuls/208339.html)
   - [Fastjson反序列化漏洞史](https://paper.seebug.org/1192/)
+  - [红队武器库:fastjson小于1.2.68全漏洞RCE利用exp复现](https://blog.csdn.net/god_zzZ/article/details/107122487)
+  - [fastjson_rce_tool](https://github.com/Hacker-One/fastjson_rce_tool)
 
 - Apache Shiro
   - 反序列化
