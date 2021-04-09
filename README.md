@@ -371,6 +371,8 @@
   - [深入理解JNDI注入与Java反序列化漏洞利用](https://www.freebuf.com/column/189835.html)
   - [如何绕过高版本JDK的限制进行JNDI注入](https://www.freebuf.com/column/207439.html)
   - [JAVA JNDI注入知识详解](https://paper.seebug.org/1207/)
+- 反序列化
+  - [ysoserial](https://github.com/frohoff/ysoserial)
 
 ##### WebServer
 
@@ -508,6 +510,7 @@
 - [PHP Object Injection](https://owasp.org/www-community/vulnerabilities/PHP_Object_Injection)
   - [php对象注入-pop链的构造](https://www.cnblogs.com/iamstudy/articles/php_object_injection_pop_chain.html)
   - [利用phar拓展php反序列化漏洞攻击面](https://paper.seebug.org/680/)
+  - [phpggc](https://github.com/ambionics/phpggc)
 
 ##### 开发框架
 
