@@ -405,7 +405,7 @@
     - CVE-2020-13935（DoS）
     - CVE-2019-2888（XXE）
     - CVE-2019-2729（wls9-async反序列化RCE）
-    - CVE-2019-2725（CNVD-C-2019-48814，wls9-async反序列化RCE，[scanv-poc](./Web%E5%BA%94%E7%94%A8/Java%20Web/WebLogic/CVE-2019-2725/scanv-CVE-2019-2725.py)）
+    - CVE-2019-2725（CNVD-C-2019-48814，wls9-async反序列化RCE）
     - CVE-2019-2647（XXE [Weblogic xxe漏洞复现及攻击痕迹分析](./Web%E5%BA%94%E7%94%A8/Java%20Web/WebLogic/CVE-2019-2647/Weblogic_xxe%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0%E5%8F%8A%E6%94%BB%E5%87%BB%E7%97%95%E8%BF%B9%E5%88%86%E6%9E%90_CVE-2019-2647_.pdf)）
     - CVE-2018-3252（反序列化RCE）
     - CVE-2018-3246（XXE）
