@@ -657,26 +657,18 @@
 - Exchange
 
   - [渗透测试中的Exchange](https://zhuanlan.zhihu.com/p/339329927)
-
   - CVE-2018-8581
-
-
     - [MICROSOFT EXCHANGE漏洞分析 – CVE-2018-8581](https://0kee.360.cn/blog/microsoft-exchange-cve-2018-8581/)
     - [利用 Exchange SSRF 漏洞和 NTLM 中继沦陷域控](https://paper.seebug.org/833/)
+  - CVE-2020-0688（RCE）
 
-- CVE-2020-0688（RCE）
 
     - [CVE-2020-0688_exchange漏洞复现](./Web%E5%BA%94%E7%94%A8/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8/Exchange/CVE-2020-0688_exchange%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0.pdf)
-
-- CVE-2020-17144（RCE）
-
+  - CVE-2020-17144（RCE）
     - [从CVE-2020-17144看实战环境的漏洞武器化](https://mp.weixin.qq.com/s?__biz=MzI2NDk0MTM5MQ==&mid=2247483712&idx=1&sn=0b2cc3c9692f5c58a4eeb246d4b392fc&chksm=eaa5bb60ddd23276baf4cfd3fc59ca847c28f350c65ef98a17d49bc9944d653fad95dec4fd14&mpshare=1&scene=1&srcid=1209jtbQLVJIgr3VT0Ut1TM9&sharer_sharetime=1607483575995&sharer_shareid=dc9cecc79ba34e4bbb700a43a16153fd#rd)
-
-- Proxylogon（RCE）
-
+  - Proxylogon（RCE）
     - [Reproducing the Microsoft Exchange Proxylogon Exploit Chain](https://www.praetorian.com/blog/reproducing-proxylogon-exploit/)
-
-
+  - CVE-2021-26855&CVE-2021-27065（SSRF&RCE）
     - [Microsoft Exchange Server CVE-2021-26855漏洞利用](https://mp.weixin.qq.com/s/iQhgQ0JkmR6pUfDxIQph1Q)
     - [Exchange攻击链CVE-2021-26855&CVE-2021-27065分析](https://blog.csdn.net/weixin_44058342/article/details/114677966)
 
