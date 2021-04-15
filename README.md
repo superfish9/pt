@@ -706,6 +706,7 @@
   - Mysql
     - [Mysql注入科普](https://www.cnblogs.com/qing123/p/4443082.html)
     - [Mysql Hacking](https://github.com/nixawk/pentest-wiki/tree/master/2.Vulnerability-Assessment/Database-Assessment/mysql)
+    - CVE-2021-27928（MariaDB/MySQL-wsrep provider命令注入）
     - CVE-2016-6662、CVE-2016-6663、CVE-2016-6664（本地提权 [组合利用](https://xz.aliyun.com/t/1122)）
     - [TSec-Comprehensive analysis of the mysql client attack chain](./Web%E5%BA%94%E7%94%A8/%E5%B8%B8%E8%A7%81%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B/SQL%E6%B3%A8%E5%85%A5/20190801-TSec-Comprehensive_analysis_of_the_mysql_client_attack_chain_%E5%85%AC%E5%BC%80%E7%89%88_.pdf)
   - PostgreSql
