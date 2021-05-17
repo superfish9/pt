@@ -485,7 +485,11 @@
   - [Fastjson反序列化漏洞史](https://paper.seebug.org/1192/)
   - [红队武器库:fastjson小于1.2.68全漏洞RCE利用exp复现](https://blog.csdn.net/god_zzZ/article/details/107122487)
   - [fastjson_rce_tool](https://github.com/Hacker-One/fastjson_rce_tool)
-
+- XStream
+  - CVE-2021-29505（RCE）
+  - CVE-2020-26217（反序列化）
+  - 反序列化
+    - [回顾XStream反序列化漏洞](https://www.anquanke.com/post/id/204314)
 - Apache Shiro
   - 反序列化
 
