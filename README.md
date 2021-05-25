@@ -760,6 +760,10 @@
 - [JAVA常见的XXE漏洞写法和防御](https://blog.spoock.com/2018/10/23/java-xxe/)
 - [XXEinjector](https://github.com/enjoiz/XXEinjector)
 
+##### CRLF
+
+- [【技术分享】初识HTTP响应拆分攻击（CRLF Injection）](https://mp.weixinbridge.com/mp/wapredirect?url=https%3A%2F%2Fwww.anquanke.com%2Fpost%2Fid%2F240014)
+
 ##### SSI
 
 - [服务器端包含注入SSI分析总结](https://www.secpulse.com/archives/66934.html)
