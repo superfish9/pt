@@ -925,6 +925,7 @@
 - [Docker-LXC 原理与绕过](./%E5%85%B6%E4%BB%96/Docker/Docker-LXC_%E5%8E%9F%E7%90%86%E4%B8%8E%E7%BB%95%E8%BF%87.pdf)
 - [红蓝对抗中的云原生漏洞挖掘及利用实录](https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g)
 - [云原生基础设施安全初探](https://security.tencent.com/index.php/blog/msg/190)
+- [CVE-2021-30465](http://blog.champtar.fr/runc-symlink-CVE-2021-30465/)（runc符号连接挂载与容器逃逸）
 - Kubernetes
 
   - [K0otkit：Hack K8s in a K8s Way](https://mp.weixin.qq.com/s/H48WNRRtlJil9uLt-O9asw)
