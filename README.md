@@ -911,7 +911,7 @@
 
 - [rsync未授权访问漏洞](https://www.cnblogs.com/leixiao-/p/10227086.html)
 
-#### Docker
+#### Docker & 容器编排 & 云
 
 - [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/Xyntax/CDK)
 
@@ -925,6 +925,8 @@
 - [Docker-LXC 原理与绕过](./%E5%85%B6%E4%BB%96/Docker/Docker-LXC_%E5%8E%9F%E7%90%86%E4%B8%8E%E7%BB%95%E8%BF%87.pdf)
 - [红蓝对抗中的云原生漏洞挖掘及利用实录](https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g)
 - [云原生基础设施安全初探](https://security.tencent.com/index.php/blog/msg/190)
+- [王任飞（avfisher）：Red Teaming for Cloud（云上攻防）](https://zhuanlan.zhihu.com/p/137802942)
+- [云的声音｜浅谈云上攻防之——元数据服务带来的安全挑战](https://mp.weixin.qq.com/s/Y9CBYJ_3c2UI54Du6bneZA)
 - [CVE-2021-30465](http://blog.champtar.fr/runc-symlink-CVE-2021-30465/)（runc符号连接挂载与容器逃逸）
 - Kubernetes
 
