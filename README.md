@@ -289,7 +289,7 @@
   - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
   - [HTTP Desync Attacks: what happened next](https://portswigger.net/research/http-desync-attacks-what-happened-next)
   - [Breaking the chains on HTTP Request Smuggler](https://portswigger.net/research/breaking-the-chains-on-http-request-smuggler)
-  - [h2c Smuggling: Request Smuggling Via HTTP/2 Cleartext(h2c)](h2c Smuggling: Request Smuggling Via HTTP/2 Cleartext(h2c))
+  - [h2c Smuggling: Request Smuggling Via HTTP/2 Cleartext(h2c)](https://labs.bishopfox.com/tech-blog/h2c-smuggling-request-smuggling-via-http/2-cleartext-h2c)
 - Web缓存投毒
   - [Practical Web Cache Poisoning](https://portswigger.net/research/practical-web-cache-poisoning)
   - [Bypassing Web Cache Poisoning Countermeasures](https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures)
