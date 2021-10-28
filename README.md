@@ -320,16 +320,16 @@
   - CVE-2021-42073（RCE）
 
 
-  - CVE-2021-41773（RCE）
-  - CVE-2019-0211（本地提权）
+- CVE-2021-41773（RCE）
+- CVE-2019-0211（本地提权）
 
 - IIS
-  - IIS PUT
-  - CVE-2017-7269（RCE）
+    - IIS PUT
+    - CVE-2017-7269（RCE）
 
 - F5
 
-  - CVE-2021-22986（RCE）
+    - CVE-2021-22986（RCE）
 
 
 - CVE-2020-5902（RCE，[scanv-poc](https://gitlab.com/sfish/pt/-/blob/master/Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/F5/_f5_big_ip_rce_cve_2020_5902.py)）
@@ -648,6 +648,10 @@
   - CVE-2013-3221（数据类型注入）
   - CVE-2013-0156（RCE）
 
+##### 应用
+
+- Gitlab
+  - CVE-2021-22205（RCE）
 
 #### Node.js
 
