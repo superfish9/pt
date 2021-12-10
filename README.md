@@ -483,6 +483,10 @@
 
 ##### 组件
 
+- Log4j2
+  - CVE-2021-44228（RCE）
+
+
 - WxJava
   - CVE-2018-20318、CVE-2019-5312（XXE）
 - Fastjson
