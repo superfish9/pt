@@ -445,19 +445,18 @@
 - Spring
 
   - [有趣的SpEL注入](https://xz.aliyun.com/t/9245)
-
-
-- CVE-2018-1271（Spring MVC目录遍历）
-- CVE-2018-1270（Spring Messaging RCE）
-    - CVE-2018-1259（Spring Data集成XMLBeam XXE）
-    - CVE-2017-8046（Spring REST Data SpEL表达式注入RCE）
-    - CVE-2016-4977（Spring Security OAuth RCE）
-    - [Jndi注入及Spring RCE漏洞分析](https://www.freebuf.com/vuls/115849.html)
-    - CVE-2011-2730（Spring EL表达式执行RCE）
-    - CVE-2010-1622（Spring MVC [DOS&RCE](https://www.inbreak.net/archives/377)）
+  - CVE-2022-22965（RCE，java9新特性导致CVE-2010-1622防护绕过）
+  - CVE-2018-1271（Spring MVC目录遍历）
+  - CVE-2018-1270（Spring Messaging RCE）
+  - CVE-2018-1259（Spring Data集成XMLBeam XXE）
+  - CVE-2017-8046（Spring REST Data SpEL表达式注入RCE）
+  - CVE-2016-4977（Spring Security OAuth RCE）
+  - [Jndi注入及Spring RCE漏洞分析](https://www.freebuf.com/vuls/115849.html)
+  - CVE-2011-2730（Spring EL表达式执行RCE）
+  - CVE-2010-1622（Spring MVC [DOS&RCE](https://www.inbreak.net/archives/377)）
 
 - Struts2
-    - s2-016、s2-019、s2-032、s2-037、s2-045、s2-046、s2-devmode（RCE）
+  - s2-016、s2-019、s2-032、s2-037、s2-045、s2-046、s2-devmode（RCE）
 
 ##### 应用
 
