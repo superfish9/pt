@@ -445,7 +445,7 @@
 - Spring
 
   - [有趣的SpEL注入](https://xz.aliyun.com/t/9245)
-  - CVE-2022-22965（RCE，java9新特性导致CVE-2010-1622防护绕过）
+  - CVE-2022-22965（Spring4Shell，RCE，java9新特性导致CVE-2010-1622防护绕过）
   - CVE-2018-1271（Spring MVC目录遍历）
   - CVE-2018-1270（Spring Messaging RCE）
   - CVE-2018-1259（Spring Data集成XMLBeam XXE）
