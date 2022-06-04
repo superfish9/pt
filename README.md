@@ -677,6 +677,7 @@
   - [A Saga of Code Executions on Zimbra](https://blog.tint0.com/2019/03/a-saga-of-code-executions-on-zimbra.html)（[Zimbra xxe+ssrf导致getshell](./Web%E5%BA%94%E7%94%A8/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8/Zimbra/Zimbra_xxe+ssrf%E5%AF%BC%E8%87%B4getshell.pdf)）
 
 - Confluence
+  - CVE-2022-26134（RCE OGNL injection）
   - CVE-2019-3396（RCE [SSTI and RCE in Confluence](./Web%E5%BA%94%E7%94%A8/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8/Confluence/CVE-2019-3396/SSTI%20and%20RCE%20in%20Confluence.pdf)，[scanv-poc](./Web%E5%BA%94%E7%94%A8/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8/Confluence/CVE-2019-3396/scanv-CVE-2019-3396.py)）
 
 - Exchange
