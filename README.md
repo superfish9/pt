@@ -318,6 +318,9 @@
 
 - Apache
 
+  - [Confusion Attacks: Exploting Hidden Semantic Ambiguity in Apache HTTP Server!](./Web%E5%BA%94%E7%94%A8/Server%E7%AB%AF/US24-Orange-Confusion-Attacks-Exploiting-Hidden-Semantic-Thursday.pdf)
+
+
   - CVE-2021-42073（RCE）
 
 
